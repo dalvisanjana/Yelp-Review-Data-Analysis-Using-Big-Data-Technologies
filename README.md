@@ -22,6 +22,7 @@ Compare customer engagement across different cities and business types.
 
 Explore patterns in review behavior, such as review length and timing.
 
+
 📂 Dataset Information
 
 Source: Yelp Open Dataset
@@ -39,6 +40,7 @@ checkin.json → Check-in activity timestamps
 tip.json → Short tips and recommendations
 
 
+
 🛠️ Tools & Technologies
 
 AWS S3 – Data storage
@@ -52,6 +54,7 @@ AWS Athena – Serverless SQL querying
 Power BI – Interactive dashboards
 
 Jupyter Notebook – EDA and visualization
+
 
 
 🔄 Methodology
